@@ -1,0 +1,33 @@
+body{
+    background-color: skyblue;
+}
+
+div {
+    margin: auto;
+    width: 40%;
+    border: 3px solid white;
+    padding: 10px;
+    background-color: white;
+  }
+
+
+  img {
+    width: 50px;
+    border-radius: 50%;
+  }
+
+  .text1{
+    margin-left: 13%;
+    margin-top: -50px;
+}
+  .text2{
+    margin-left: 13%;
+    margin-top: -15px;
+}
+
+  .text5{
+    margin-bottom: -10px;
+    font-size: small;
+}
+
+
